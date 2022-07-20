@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-    <a href="https://tryhackme.com/p/Xaxeric" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Xaxeric.png?0x5" alt="TryHackMe"></a>
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3sc&langs_count=8&theme=github_dark&layout=compact&hide_border=true">
 </p>
 
