@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaxeric&langs_count=8&theme=github_dark&layout=compact&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3sc&langs_count=8&theme=github_dark&layout=compact&hide_border=true">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xaxeric&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=d3sc&show_icons=true&theme=github_dark&hide_border=true">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Xaxeric&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=d3sc&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j">
 </p>
