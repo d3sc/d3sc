@@ -5,7 +5,6 @@
     <a href="https://liberapay.com/d3sc" target="_blank"><img alt="Donate using Liberapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"></a>
     <a href="https://d3sc.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
     <a href="mailto:descloups@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://t.me/Xaxeric"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 <p align="center">
