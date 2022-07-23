@@ -1,4 +1,4 @@
-### Hi there 👋
+### My Profile
 
 <p align="center">
     <a href="https://liberapay.com/d3sc" target="_blank"><img alt="Donate using Liberapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"></a>
