@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm D3sc</h1>
+<h1 align="center">Hi 👋, I'm d3sc</h1>
 <h3 align="center">people who study fullstack web developers from Indonesia</h3>
 
 - 🔭 I’m currently working on [Craccken](https://github.com/Craccken)
