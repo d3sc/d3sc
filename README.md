@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Craccken](https://github.com/Craccken)
 
-- 👨‍💻 All of my projects are available at [d3sc.my.id](https://d3sc.myd.id)
+- 👨‍💻 All of my projects are available at [d3sc.my.id](https://d3sc.my.id)
 
 - 📫 How to reach me **descloups@gmail.com**
 
