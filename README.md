@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Craccken](https://github.com/Craccken)
 
-- 🌱 I’m currently learning **Web Development, machine learning, cyber security**
+- 🌱 I’m currently learning **Web Development, Machine Learning, Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://www.d3sc.my.id](https://www.d3sc.my.id)
 
